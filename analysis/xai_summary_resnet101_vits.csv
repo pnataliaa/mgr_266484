@@ -1,0 +1,9 @@
+model,family,method,xai_iou_mean,xai_corr_mean,centroid_shift_mean,prob_drop_mean,acc_corr_rate,n
+resnet101,CNN,cam,0.468,0.727,11.053,0.265,0.173,225
+resnet101,CNN,ig,0.199,0.22,18.764,0.265,0.173,225
+vit_b_16,ViT,cam,0.26,0.306,30.131,0.184,0.156,225
+vit_b_16,ViT,ig,0.273,0.368,12.654,0.184,0.156,225
+vit_b_16,ViT,rollout,0.495,0.667,11.57,0.184,0.156,225
+vit_b_32,ViT,cam,0.279,0.34,30.815,0.261,0.2,225
+vit_b_32,ViT,ig,0.313,0.441,12.071,0.261,0.2,225
+vit_b_32,ViT,rollout,0.571,0.735,15.531,0.261,0.2,225

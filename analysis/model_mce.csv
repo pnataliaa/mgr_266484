@@ -1,0 +1,6 @@
+model,family,clean_err_%,mCE,delta_%
+resnet101,CNN,18.33,44.71,26.38
+resnet152,CNN,17.66,42.61,24.95
+resnet50,CNN,19.66,51.71,32.05
+vit_b_16,ViT,18.94,39.68,20.74
+vit_b_32,ViT,24.1,44.36,20.26

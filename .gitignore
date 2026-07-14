@@ -3,3 +3,7 @@ hf_cache/
 *.pyc
 __pycache__/
 figures/
+data/
+corrupted/
+embeddings/
+analysis/confusion_direction_cnn_vs_vit.csv

@@ -1,0 +1,13 @@
+model,grupa,klasa,idx,iou
+resnet50,podatne,backpack,1102,0.155
+resnet50,podatne,backpack,1351,0.144
+resnet50,podatne,ice_cream,184,0.17
+resnet50,podatne,ice_cream,734,0.205
+resnet50,podatne,paper_towel,365,0.125
+resnet50,podatne,paper_towel,831,0.27
+resnet50,odporne,zebra,83,0.265
+resnet50,odporne,zebra,507,0.197
+resnet50,odporne,daisy,1802,0.194
+resnet50,odporne,daisy,2051,0.197
+resnet50,odporne,monarch,2520,0.237
+resnet50,odporne,monarch,3235,0.272
