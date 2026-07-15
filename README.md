@@ -1,5 +1,4 @@
 # Analiza wpływu zakłóceń obrazu na stabilność reprezentacji generowanych przez głębokie sieci neuronowe z uwzględnieniem klas obrazów
-# mgr_266484
 
 Repozytorium projektu magisterskiego: analiza odporności klasyfikatorów ImageNet-1k na zaburzenia obrazu (ImageNet-C) na poziomie poszczególnych klas.
 
